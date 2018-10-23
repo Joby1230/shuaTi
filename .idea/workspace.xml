@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca115681-ba22-4257-8d5d-2fdc04542907" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/DetectCapital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/ReverseStringII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/ReverseWordsInAStringIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/StudentAttendanceRecordI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/ConstructStringFromBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/RepeatedStringMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/ToLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/ValidPalindromeII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/刷题/剑指offer/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/刷题/剑指offer/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/剑指offer/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/TreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,51 +28,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/剑指offer/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="135">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DetectCapital.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/DetectCapital.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding>
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseStringII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/ReverseStringII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentAttendanceRecordI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/StudentAttendanceRecordI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseWordsInAStringIII.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/ReverseWordsInAStringIII.java">
+      <file leaf-file-name="RepeatedStringMatch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/RepeatedStringMatch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -96,11 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/剑指offer/包含min函数的栈.java" />
-        <option value="$PROJECT_DIR$/src/剑指offer/栈的压入弹出序列.java" />
-        <option value="$PROJECT_DIR$/src/剑指offer/从上往下打印二叉树.java" />
-        <option value="$PROJECT_DIR$/src/剑指offer/二叉搜索树的后序遍历序列.java" />
-        <option value="$PROJECT_DIR$/src/剑指offer/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/剑指offer/二叉树中和为某一值的路径.java" />
         <option value="$PROJECT_DIR$/src/剑指offer/复杂链表的复制.java" />
         <option value="$PROJECT_DIR$/src/say/hello.java" />
@@ -147,6 +113,11 @@
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/ReverseStringII.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/StudentAttendanceRecordI.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/ReverseWordsInAStringIII.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Easy/ConstructStringFromBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Easy/ValidPalindromeII.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Easy/RepeatedStringMatch.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Easy/ToLowerCase.java" />
       </list>
     </option>
   </component>
@@ -170,9 +141,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,6 +169,14 @@
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Easy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shuati" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shuati" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Easy" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkListCycle.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -207,7 +186,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../course_toutiao/toutiao" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="模块" />
@@ -227,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StudentAttendanceRecordI">
+  <component name="RunManager" selected="Application.ValidPalindromeII">
     <configuration name="分苹果" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="网易.分苹果" />
       <module name="刷题" />
@@ -250,17 +229,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ExcelSheetColumnTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Easy.ExcelSheetColumnTitle" />
-      <module name="刷题" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Easy.RotateArray" />
       <module name="刷题" />
@@ -274,6 +242,17 @@
     </configuration>
     <configuration name="StudentAttendanceRecordI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Easy.StudentAttendanceRecordI" />
+      <module name="刷题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ValidPalindromeII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Easy.ValidPalindromeII" />
       <module name="刷题" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -424,19 +403,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ExcelSheetColumnTitle" />
       <item itemvalue="Application.RotateArray" />
       <item itemvalue="Application.CountPrimes" />
       <item itemvalue="Application._RepeatedSubstringPattern" />
       <item itemvalue="Application.StudentAttendanceRecordI" />
+      <item itemvalue="Application.ValidPalindromeII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidPalindromeII" />
         <item itemvalue="Application.StudentAttendanceRecordI" />
         <item itemvalue="Application._RepeatedSubstringPattern" />
         <item itemvalue="Application.CountPrimes" />
         <item itemvalue="Application.RotateArray" />
-        <item itemvalue="Application.ExcelSheetColumnTitle" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +515,9 @@
       <workItem from="1540090175340" duration="90000" />
       <workItem from="1540124036880" duration="5278000" />
       <workItem from="1540174084015" duration="17000" />
-      <workItem from="1540198714706" duration="6244000" />
+      <workItem from="1540198714706" duration="6311000" />
+      <workItem from="1540290417111" duration="5308000" />
+      <workItem from="1540299403369" duration="875000" />
     </task>
     <task id="LOCAL-00001" summary="10.15 1">
       <created>1539612187663</created>
@@ -587,11 +568,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540129626216</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="18.10.22">
+      <created>1540212331920</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540212331920</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235469000" />
+    <option name="totallyTimeSpent" value="241719000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -603,12 +591,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.17067833" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.17011996" />
       <window_info anchor="bottom" id="调试" order="12" sideWeight="0.496875" weight="0.32606325" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4953125" weight="0.32715377" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -616,11 +603,11 @@
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49375" visible="true" weight="0.32388222" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49375" weight="0.32388222" />
       <window_info anchor="right" id="调色板" order="4" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.22355507" />
       <window_info id="Capture Tool" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946865" visible="true" weight="0.22068231" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946865" visible="true" weight="0.2249467" />
       <window_info id="设计器" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -629,6 +616,7 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="4" sideWeight="0.5005314" side_tool="true" weight="0.18020834" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4953125" weight="0.32715377" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -678,11 +666,12 @@
     <MESSAGE value="18.10.19" />
     <MESSAGE value="18.10.20" />
     <MESSAGE value="18.10.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="18.10.21" />
+    <MESSAGE value="18.10.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="18.10.22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="87" />
+      <option name="time" value="90" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -712,34 +701,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/变态跳台阶.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/反转链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="3" selection-start-line="3" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/矩形覆盖.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/二维数组中的查找.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指offer/二叉搜索树的后序遍历序列.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -906,13 +867,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/LinkListCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/NumberOf1Bits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1020,21 +974,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/StudentAttendanceRecordI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="189">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/DetectCapital.java">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/ReverseWordsInAStringIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1045,17 +995,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/StudentAttendanceRecordI.java">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/DetectCapital.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="54">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/ReverseWordsInAStringIII.java">
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/LinkListCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/ValidPalindromeII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/ConstructStringFromBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/ToLowerCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/RepeatedStringMatch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
