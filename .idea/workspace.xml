@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca115681-ba22-4257-8d5d-2fdc04542907" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/ConstructStringFromBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/RepeatedStringMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/ToLowerCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/ValidPalindromeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Dp/MaximumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/MostCommonWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/RotatedDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Easy/UniqueMorseCodeWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/刷题/剑指offer/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/刷题/剑指offer/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/TreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +26,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/剑指offer/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotatedDigits.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/RotatedDigits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniqueMorseCodeWords.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/UniqueMorseCodeWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MostCommonWord.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/MostCommonWord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumSubarray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/Dp/MaximumSubarray.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -67,10 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/剑指offer/二叉树中和为某一值的路径.java" />
-        <option value="$PROJECT_DIR$/src/剑指offer/复杂链表的复制.java" />
-        <option value="$PROJECT_DIR$/src/say/hello.java" />
-        <option value="$PROJECT_DIR$/src/剑指offer/二叉搜索树与双向链表.java" />
         <option value="$PROJECT_DIR$/src/剑指offer/字符串的排列.java" />
         <option value="$PROJECT_DIR$/src/剑指offer/数组中出现次数超过一半的数字.java" />
         <option value="$PROJECT_DIR$/src/剑指offer/最小的k个数.java" />
@@ -118,6 +154,10 @@
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/ValidPalindromeII.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/RepeatedStringMatch.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/ToLowerCase.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Easy/RotatedDigits.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Easy/UniqueMorseCodeWords.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Easy/MostCommonWord.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Dp/MaximumSubarray.java" />
       </list>
     </option>
   </component>
@@ -141,9 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,6 +204,13 @@
               <item name="shuati" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Dp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shuati" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shuati" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Easy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -181,12 +225,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../course_toutiao/toutiao" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="模块" />
@@ -517,7 +564,9 @@
       <workItem from="1540174084015" duration="17000" />
       <workItem from="1540198714706" duration="6311000" />
       <workItem from="1540290417111" duration="5308000" />
-      <workItem from="1540299403369" duration="875000" />
+      <workItem from="1540299403369" duration="1089000" />
+      <workItem from="1540369475333" duration="3103000" />
+      <workItem from="1540385636128" duration="3681000" />
     </task>
     <task id="LOCAL-00001" summary="10.15 1">
       <created>1539612187663</created>
@@ -575,11 +624,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540212331920</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="18.10.23">
+      <created>1540300756375</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1540300756375</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241719000" />
+    <option name="totallyTimeSpent" value="248717000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -591,7 +647,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.17011996" />
@@ -602,12 +658,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50625" side_tool="true" weight="0.32943678" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3293348" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49375" weight="0.32388222" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3293348" />
       <window_info anchor="right" id="调色板" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.22355507" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.22355507" />
       <window_info id="Capture Tool" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946865" visible="true" weight="0.2249467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946865" visible="true" weight="0.22921109" />
       <window_info id="设计器" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -615,15 +671,15 @@
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="4" sideWeight="0.5005314" side_tool="true" weight="0.18020834" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4953125" weight="0.32715377" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -667,7 +723,8 @@
     <MESSAGE value="18.10.20" />
     <MESSAGE value="18.10.21" />
     <MESSAGE value="18.10.22" />
-    <option name="LAST_COMMIT_MESSAGE" value="18.10.22" />
+    <MESSAGE value="18.10.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="18.10.23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -701,34 +758,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/二叉搜索树的后序遍历序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/二叉树中和为某一值的路径.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/网易/分苹果.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/say/hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指offer/数组中出现次数超过一半的数字.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1039,8 +1068,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指offer/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/RotatedDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/UniqueMorseCodeWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/MostCommonWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Dp/MaximumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
