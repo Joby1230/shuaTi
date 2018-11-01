@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca115681-ba22-4257-8d5d-2fdc04542907" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Dp/MinimumPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Dp/UniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Dp/UniquePathsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Dp/DecodeWays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,11 +50,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinimumPathSum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MinimumPathSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leetcode/Dp/MinimumPathSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            <state relative-caret-position="378">
+              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecodeWays.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/Dp/DecodeWays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -82,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Leetcode/Easy/TwoSumII.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/ExcelSheetColumnTitle.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/MajorityElement.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/ExcelSheetColumnNumber.java" />
@@ -133,6 +139,7 @@
         <option value="$PROJECT_DIR$/src/Leetcode/Dp/UniquePaths.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Dp/UniquePathsII.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Dp/MinimumPathSum.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Dp/DecodeWays.java" />
       </list>
     </option>
   </component>
@@ -156,9 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,6 +198,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -536,7 +543,8 @@
       <workItem from="1540542563811" duration="229000" />
       <workItem from="1540636801692" duration="6294000" />
       <workItem from="1540725104744" duration="1611000" />
-      <workItem from="1540816998724" duration="1989000" />
+      <workItem from="1540816998724" duration="2067000" />
+      <workItem from="1541084194513" duration="1679000" />
     </task>
     <task id="LOCAL-00001" summary="10.15 1">
       <created>1539612187663</created>
@@ -622,11 +630,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540726794488</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="18.10.29">
+      <created>1540819051204</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540819051204</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="258906000" />
+    <option name="totallyTimeSpent" value="260663000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -652,9 +667,9 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3293348" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49375" weight="0.32388222" />
       <window_info anchor="right" id="调色板" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.22246456" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.22246456" />
       <window_info id="Capture Tool" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946865" visible="true" weight="0.23987207" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49946865" visible="true" weight="0.24253732" />
       <window_info id="设计器" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -718,7 +733,8 @@
     <MESSAGE value="18.10.24" />
     <MESSAGE value="18.10.27" />
     <MESSAGE value="18.10.28" />
-    <option name="LAST_COMMIT_MESSAGE" value="18.10.28" />
+    <MESSAGE value="18.10.29" />
+    <option name="LAST_COMMIT_MESSAGE" value="18.10.29" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -752,13 +768,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/剑指offer/字符串的排列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指offer/复杂链表的复制.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -1017,9 +1026,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1027,9 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1098,8 +1101,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Dp/MinimumPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="378">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Dp/DecodeWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
