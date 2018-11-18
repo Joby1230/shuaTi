@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca115681-ba22-4257-8d5d-2fdc04542907" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Dp/UniqueBinarySearchTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/从1到n整数中1出现的次数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/连续子数组的最大和.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Leetcode/Dp/UniqueBinarySearchTreesII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Dp/UniqueBinarySearchTreesII.java" afterDir="false" />
     </list>
@@ -79,8 +80,8 @@
       <file leaf-file-name="UniqueBinarySearchTreesII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leetcode/Dp/UniqueBinarySearchTreesII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="513">
+              <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,11 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UniqueBinarySearchTrees.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/Dp/UniqueBinarySearchTrees.java">
+      <file leaf-file-name="连续子数组的最大和.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/剑指offer/连续子数组的最大和.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="81">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="从1到n整数中1出现的次数.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/剑指offer/从1到n整数中1出现的次数.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -118,8 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Leetcode/Easy/RotateArray.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/Easy/ReverseBits.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/NumberOf1Bits.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/HouseRobber.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/HappyNumber.java" />
@@ -167,8 +175,10 @@
         <option value="$PROJECT_DIR$/src/Leetcode/Dp/DecodeWays.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Dp/Triangle.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Dp/MaximumProductSubarray.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/Dp/UniqueBinarySearchTreesII.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Dp/UniqueBinarySearchTrees.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/Dp/UniqueBinarySearchTreesII.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/连续子数组的最大和.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/从1到n整数中1出现的次数.java" />
       </list>
     </option>
   </component>
@@ -181,9 +191,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="534" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="183" />
+    <option name="y" value="100" />
     <option name="width" value="1400" />
     <option name="height" value="980" />
   </component>
@@ -214,29 +224,21 @@
               <item name="shuati" type="b2602c69:ProjectViewProjectNode" />
               <item name="shuati" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Dp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shuati" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shuati" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shuati" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shuati" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="say" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shuati" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shuati" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -589,7 +591,10 @@
       <workItem from="1541742379270" duration="6702000" />
       <workItem from="1541769966182" duration="3212000" />
       <workItem from="1541815699147" duration="1064000" />
-      <workItem from="1541850948205" duration="1426000" />
+      <workItem from="1541850948205" duration="1779000" />
+      <workItem from="1542202361589" duration="1774000" />
+      <workItem from="1542272081743" duration="3000" />
+      <workItem from="1542547385430" duration="968000" />
     </task>
     <task id="LOCAL-00001" summary="10.15 1">
       <created>1539612187663</created>
@@ -696,11 +701,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541773098288</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="18.11.10">
+      <created>1541854521289</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1541854521289</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275190000" />
+    <option name="totallyTimeSpent" value="278288000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -712,7 +724,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="534" y="25" width="1400" height="980" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.17011996" />
@@ -726,9 +738,9 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3293348" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49375" weight="0.27371866" />
       <window_info anchor="right" id="调色板" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24256837" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.22246456" />
       <window_info id="Capture Tool" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946865" visible="true" weight="0.22089553" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946865" visible="true" weight="0.16311301" />
       <window_info id="设计器" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -795,7 +807,8 @@
     <MESSAGE value="18.10.29" />
     <MESSAGE value="18.11.01" />
     <MESSAGE value="18.11.09" />
-    <option name="LAST_COMMIT_MESSAGE" value="18.11.09" />
+    <MESSAGE value="18.11.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="18.11.10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -829,34 +842,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/FactorialTrailingZeroes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/ExcelSheetColumnNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/ReverseBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/HouseRobber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1163,20 +1148,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/反转链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/Dp/UniqueBinarySearchTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/复杂链表的复制.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Dp/UniqueBinarySearchTreesII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state relative-caret-position="513">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Dp/UniqueBinarySearchTrees.java">
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/连续子数组的最大和.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="81">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/从1到n整数中1出现的次数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
