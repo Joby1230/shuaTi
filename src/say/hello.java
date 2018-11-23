@@ -22,6 +22,11 @@ public class hello {
         t1.foo2(b);
         System.out.println(b);
 
+        HashMap<Integer,Integer> map=new HashMap<>();
+        map.put(1,1);
+
+
+
     }
     public void foo(Solution s){
         s.a++;

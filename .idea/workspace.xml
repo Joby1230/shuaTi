@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca115681-ba22-4257-8d5d-2fdc04542907" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/src/剑指offer/把数组排成最小的数.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/从1到n整数中1出现的次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/从1到n整数中1出现的次数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/刷题/say/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/刷题/say/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/刷题/say/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/刷题/say/hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/say/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/say/hello.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,15 +60,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinimumPathSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/Dp/MinimumPathSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DecodeWays.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Leetcode/Dp/DecodeWays.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,11 +90,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="从1到n整数中1出现的次数.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="从1到n整数中1出现的次数.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/剑指offer/从1到n整数中1出现的次数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            <state relative-caret-position="540">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="把数组排成最小的数.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/剑指offer/把数组排成最小的数.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/say/hello.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#898#913#0" expanded="true" />
+                <element signature="e#1315#1324#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="726" column="29" selection-start-line="726" selection-start-column="29" selection-end-line="726" selection-end-column="29" />
+              <folding>
+                <element signature="e#24329#24330#0" expanded="true" />
+                <element signature="e#24394#24395#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,8 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Leetcode/Easy/NumberOf1Bits.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/Easy/HouseRobber.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/HappyNumber.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/RemoveLinkedListElements.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/Easy/CountPrimes.java" />
@@ -177,6 +207,8 @@
         <option value="$PROJECT_DIR$/src/Leetcode/Dp/UniqueBinarySearchTreesII.java" />
         <option value="$PROJECT_DIR$/src/剑指offer/连续子数组的最大和.java" />
         <option value="$PROJECT_DIR$/src/剑指offer/从1到n整数中1出现的次数.java" />
+        <option value="$PROJECT_DIR$/src/say/hello.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/把数组排成最小的数.java" />
       </list>
     </option>
   </component>
@@ -200,8 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,6 +266,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -262,7 +294,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.从1到n整数中1出现的次数">
+  <component name="RunManager" selected="Application.hello">
     <configuration name="分苹果" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="网易.分苹果" />
       <module name="刷题" />
@@ -292,17 +324,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Leetcode.hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StudentAttendanceRecordI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Easy.StudentAttendanceRecordI" />
-      <module name="刷题" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,6 +441,17 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="say.hello" />
+      <module name="刷题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="say.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -460,18 +492,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.CountPrimes" />
-      <item itemvalue="Application.StudentAttendanceRecordI" />
       <item itemvalue="Application.ValidPalindromeII" />
       <item itemvalue="Application.UniqueBinarySearchTreesII" />
       <item itemvalue="Application.从1到n整数中1出现的次数" />
+      <item itemvalue="Application.hello" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hello" />
         <item itemvalue="Application.从1到n整数中1出现的次数" />
         <item itemvalue="Application.UniqueBinarySearchTreesII" />
         <item itemvalue="Application.CountPrimes" />
         <item itemvalue="Application.ValidPalindromeII" />
-        <item itemvalue="Application.StudentAttendanceRecordI" />
       </list>
     </recent_temporary>
   </component>
@@ -595,7 +627,9 @@
       <workItem from="1542547385430" duration="1252000" />
       <workItem from="1542610363358" duration="24000" />
       <workItem from="1542787886667" duration="224000" />
-      <workItem from="1542808596276" duration="1554000" />
+      <workItem from="1542808596276" duration="1631000" />
+      <workItem from="1542876837454" duration="2184000" />
+      <workItem from="1542976740909" duration="2500000" />
     </task>
     <task id="LOCAL-00001" summary="10.15 1">
       <created>1539612187663</created>
@@ -716,11 +750,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542548511116</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="18.11.21">
+      <created>1542810481317</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1542810481318</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="280374000" />
+    <option name="totallyTimeSpent" value="285135000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -741,15 +782,15 @@
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50625" side_tool="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50373137" side_tool="true" weight="0.12322792" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49375" visible="true" weight="0.27371866" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49375" visible="true" weight="0.27371866" />
       <window_info anchor="right" id="调色板" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.22246456" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49626866" weight="0.11220044" />
       <window_info id="Capture Tool" order="6" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49946865" visible="true" weight="0.16791044" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49946865" visible="true" weight="0.17110874" />
       <window_info id="设计器" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -817,7 +858,8 @@
     <MESSAGE value="18.11.09" />
     <MESSAGE value="18.11.10" />
     <MESSAGE value="18.11.18" />
-    <option name="LAST_COMMIT_MESSAGE" value="18.11.18" />
+    <MESSAGE value="18.11.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="18.11.21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -851,34 +893,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/HouseRobber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/HappyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/NumberOf1Bits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/RemoveLinkedListElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Easy/ContainsDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1195,10 +1209,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="726" column="29" selection-start-line="726" selection-start-column="29" selection-end-line="726" selection-end-column="29" />
+          <folding>
+            <element signature="e#24329#24330#0" expanded="true" />
+            <element signature="e#24394#24395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/二进制中1的个数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/say/hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#898#913#0" expanded="true" />
+            <element signature="e#1315#1324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/剑指offer/从1到n整数中1出现的次数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="540">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/把数组排成最小的数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
